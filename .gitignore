@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Local Claude Code settings (machine-specific)
+.claude/settings.local.json
+
+# Large opensource datasets — download from original MASTER repo (see README §4)
+/data/opensource/
+/data/original/
